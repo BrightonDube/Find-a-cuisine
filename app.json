@@ -1,0 +1,12 @@
+{
+  "name": "Find-a-cuisine",
+  "displayName": "Find-a-cuisine",
+  "expo": {
+    "name": "Find-a-cuisine",
+    "slug": "Find-a-cuisine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
